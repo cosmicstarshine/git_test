@@ -1,0 +1,1 @@
+This is my, cosmicstarshine's very first git project.
